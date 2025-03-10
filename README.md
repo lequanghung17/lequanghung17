@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at University of Engineering and Technology, Viet Nam National University. University of Engineering and Technology, Viet Nam National University.<br>🌱 I'm currently learning on Computer Science. Computer Science.<br>👨‍💻 All of my projects are available at this github.<br>📫 Reach me at lequanghungsergioaguero@gmail.com<br>⚡ Fun fact a Man City fan.
+🔭 I’m currently studying at University of Engineering and Technology, Viet Nam National University.<br>🌱 I'm currently learning on Computer Science. Computer Science.<br>👨‍💻 All of my projects are available at this github.<br>📫 Reach me at lequanghungsergioaguero@gmail.com<br>⚡ Fun fact a Man City fan.
 
 
 ## 🌐 Socials:
